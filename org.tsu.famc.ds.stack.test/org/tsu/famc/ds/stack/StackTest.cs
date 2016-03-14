@@ -8,7 +8,7 @@ namespace org.tsu.famc.ds.stack
         static void Main(string[] args)
         {
             Stack s = new Stack();
-            // some comment
+            // some comment ho-ho-ho
             try
             {
                 for (int i = 0; i < 1000; i++)
